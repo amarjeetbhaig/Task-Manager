@@ -28,5 +28,15 @@ Before getting started, ensure you have the following installed:
 - **npm** (usually installed with Node.js) or **yarn** as a package manager.
 
 ### Setup Instructions
+1. **Clone the Repository**:
+   To get started with the project, clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/amarjeetbhaig/Task-Manager.git
+   cd Task-Manager
+### Install Dependencies: Run the following command to install the necessary dependencies
+npm install
+# or
+yarn install
 
 
